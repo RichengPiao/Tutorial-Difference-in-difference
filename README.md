@@ -1,5 +1,4 @@
 # Tutorial-Difference-in-difference
-Difference in difference analysis using python
 In this tutorial, I will demonstrate how Difference in difference analysis is implemented in Python.
 
 ## More on  Difference in difference analysis
